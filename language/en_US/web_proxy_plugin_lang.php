@@ -1,5 +1,5 @@
 <?php
 
-$lang['web_proxy_plugin_app_description'] = 'Provides Web Proxy option in the User Manager.';
-$lang['web_proxy_plugin_app_name'] = 'Web Proxy Accounts';
-$lang['web_proxy_plugin_web_proxy_users'] = 'Web Proxy Users';
+$lang['web_proxy_plugin_app_description'] = 'Web Proxy Policies provide access control for the Web Proxy app.';
+$lang['web_proxy_plugin_app_name'] = 'Web Proxy Policies';
+$lang['web_proxy_plugin_web_proxy_user'] = 'Web Proxy User';
