@@ -1,9 +1,9 @@
 
 Name: app-web-proxy-plugin
 Epoch: 1
-Version: 1.0.10
+Version: 1.1.0
 Release: 1%{dist}
-Summary: Web Proxy Policies - APIs and install
+Summary: Web Proxy Policies - Core
 License: LGPLv3
 Group: ClearOS/Libraries
 Source: app-web-proxy-plugin-%{version}.tar.gz
@@ -13,7 +13,7 @@ Buildarch: noarch
 Web Proxy Policies provide access control for the Web Proxy app.
 
 %package core
-Summary: Web Proxy Policies - APIs and install
+Summary: Web Proxy Policies - Core
 Requires: app-base-core
 Requires: app-accounts-core
 
