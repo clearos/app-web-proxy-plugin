@@ -1,7 +1,7 @@
 
 Name: app-web-proxy-plugin
 Epoch: 1
-Version: 1.1.0
+Version: 1.6.0
 Release: 1%{dist}
 Summary: Web Proxy Policies - Core
 License: LGPLv3
@@ -54,9 +54,7 @@ exit 0
 %files core
 %defattr(-,root,root)
 %exclude /usr/clearos/apps/web_proxy_plugin/packaging
-%exclude /usr/clearos/apps/web_proxy_plugin/tests
 %dir /usr/clearos/apps/web_proxy_plugin
 /usr/clearos/apps/web_proxy_plugin/deploy
 /usr/clearos/apps/web_proxy_plugin/language
-/usr/clearos/apps/web_proxy_plugin/libraries
 /var/clearos/accounts/plugins/web_proxy.php
