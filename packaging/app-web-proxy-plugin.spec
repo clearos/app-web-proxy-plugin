@@ -1,7 +1,7 @@
 
 Name: app-web-proxy-plugin
 Epoch: 1
-Version: 2.0.1
+Version: 2.0.5
 Release: 1%{dist}
 Summary: Web Proxy Policies - Core
 License: LGPLv3
